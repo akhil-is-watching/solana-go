@@ -18,8 +18,8 @@ import (
 	"context"
 	"fmt"
 
+	"github.com/akhil-is-watching/solana-go"
 	bin "github.com/gagliardetto/binary"
-	"github.com/gagliardetto/solana-go"
 )
 
 type GetTransactionOpts struct {

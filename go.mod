@@ -1,4 +1,4 @@
-module github.com/gagliardetto/solana-go
+module github.com/akhil-is-watching/solana-go
 
 go 1.19
 
